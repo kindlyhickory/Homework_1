@@ -1,0 +1,6 @@
+Ivanov 19000
+Smith 21000
+Stepanov 25000
+Krasnova 15000
+Cameron 31000
+Johnson 16000
